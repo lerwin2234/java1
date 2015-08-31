@@ -15,7 +15,7 @@ public class Intro {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("This is my test.");
+        System.out.println("This is my test.Checking into github.");
     }
     
 }
